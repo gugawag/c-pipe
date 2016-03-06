@@ -3,7 +3,7 @@
  *
  * Figures 3.25 & 3.26
  *
- * @author Silberschatz, Galvin, and Gagne
+ * @author Silberschatz, Galvin, and Gagne. Pequenas alterações feitas por Gustavo Wagner (gugawag@gmail.com)
  * Operating System Concepts  - Ninth Edition
  * Copyright John Wiley & Sons - 2013
  */
